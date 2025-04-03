@@ -1,0 +1,2 @@
+openai-agents
+nest_asyncio
